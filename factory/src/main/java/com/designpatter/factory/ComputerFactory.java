@@ -12,6 +12,6 @@ public class ComputerFactory {
 		else if ("Server".equalsIgnoreCase(type))
 			return new Server(ram, hdd, cpu);
 
-		return null;
+		throw new NoClassDefFoundError();
 	}
 }
