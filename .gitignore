@@ -9,3 +9,9 @@ factory/.settings/
 singleton/.project
 singleton/.classpath
 singleton/.settings/
+abstract.factory/.classpath
+abstract.factory/.project
+abstract.factory/.settings/
+builder/.project
+builder/.classpath
+builder/.settings/
