@@ -3,3 +3,9 @@ signleton/.project
 signleton/.settings/
 signleton/bin/
 signleton/target/
+factory/.classpath
+factory/.project
+factory/.settings/
+singleton/.project
+singleton/.classpath
+singleton/.settings/

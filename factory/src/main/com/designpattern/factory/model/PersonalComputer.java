@@ -1,4 +1,4 @@
-package com.designpatter.factory.model;
+package com.designpattern.factory.model;
 
 public class PersonalComputer extends Computer{
 	private String ram;

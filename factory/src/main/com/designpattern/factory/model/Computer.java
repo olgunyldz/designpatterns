@@ -1,4 +1,4 @@
-package com.designpatter.factory.model;
+package com.designpattern.factory.model;
 
 public abstract class Computer {
 	public abstract String getRAM();

@@ -1,4 +1,4 @@
-package factory;
+package com.designpattern.factory;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -6,10 +6,10 @@ import static org.junit.Assert.fail;
 
 import org.junit.Test;
 
-import com.designpatter.factory.ComputerFactory;
-import com.designpatter.factory.model.Computer;
-import com.designpatter.factory.model.PersonalComputer;
-import com.designpatter.factory.model.Server;
+import com.designpattern.factory.ComputerFactory;
+import com.designpattern.factory.model.Computer;
+import com.designpattern.factory.model.PersonalComputer;
+import com.designpattern.factory.model.Server;
 
 public class ComputerFactoryTests {
 
